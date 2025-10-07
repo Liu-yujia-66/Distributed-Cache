@@ -1,6 +1,6 @@
-【代码随想录知识星球】项目分享-缓存系统（Go）
+分布式缓存系统（Go）
 
-# KamaCache
+# Distributed-Cache
 
 ## 核心特性
 
