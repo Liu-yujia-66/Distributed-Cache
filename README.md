@@ -27,7 +27,7 @@
 
 ### 1. 安装
 ```bash
-go get github.com/youngyangyang04/KamaCache-Go
+go get github.com/Liu-yujia-66/Distributed-Cache
 ```
 
 ### 2. 启动 etcd
